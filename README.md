@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=José%20Gabriel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20·%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A0C4FF&center=true&vCenter=true&width=800&lines=José+Gabriel;Backend+Developer;Java+%26+Spring+Boot+🚀)
 
 </div>
 
